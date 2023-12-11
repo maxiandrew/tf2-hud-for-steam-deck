@@ -1,6 +1,4 @@
 "tf2-hud-for-steam-deck"
 {
-	//TF2 Doesn't load this unless it is set to 3 
-	//"ui_version"	"0.1.1"
 	"ui_version"	"3"
 }
