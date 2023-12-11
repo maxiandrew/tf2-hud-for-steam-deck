@@ -203,12 +203,12 @@
 		
 		"model_hide"	"1"
 		"text_center"	"1"
-		"resize_to_text" "1"
+		"resize_to_text" "0"
 		
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
-			"inventory_image_type" "1"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}	
@@ -236,7 +236,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
-			"inventory_image_type" "1"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}	
@@ -248,33 +248,31 @@
 		"xpos"			"c-70"
 		"ypos"			"270"
 		"zpos"			"10000"
-		"wide"			"250"
-		"tall"			"180"
+		"wide"			"200"
+		"tall"			"150"
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
-		"text_ypos"			"20"
-		"text_center"		"1"
+		"text_center_x"		"1"
 		"model_hide"		"0"
-		"resize_to_text"	"0"
+		"resize_to_text"	"1"
 		"padding_height"	"15"
 		"name_only"			"1"
 		
-		"model_ypos"	"40"
-		"model_xpos"	"50"
-		"model_wide"	"156"
+		"model_ypos"	"15"
+		"model_wide"	"150"
 		"model_tall"	"100"
 		
-		"text_forcesize"	"1"
-		"is_mouseover"		"1"
+		"model_center_x"	"1"
+		"hide_collection_panel"		"1"
 		
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
-			"inventory_image_type" "1"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -400,18 +398,18 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"StoreButton"
-		"xpos"			"c-138"
-		"ypos"			"323"
+		"xpos"			"c-295"
+		"ypos"			"290"
 		"zpos"			"20"
-		"wide"			"200"
-		"tall"			"25"
+		"wide"			"160"
+		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#ArmoryButton_Store"
-		"font"			"HudFontSmallBold"
+		"font"			"HudFontSmallestBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

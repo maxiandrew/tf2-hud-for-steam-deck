@@ -2973,7 +2973,9 @@
 			"scaleImage"	"1"
 		}				
 	}	
-
+	
+	
+	
 	"ReplayButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -3021,10 +3023,10 @@
 		}				
 	}
 	
-	"ReportBugButton"
+	"ConsoleButton"
 	{
 		"ControlName"	"CExImageButton"
-		"fieldName"		"ReportBugButton"
+		"fieldName"		"ConsoleButton"
 		"xpos"			"c-14+273"
 		"ypos"			"437"
 		"zpos"			"4"
@@ -3041,7 +3043,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
-		"Command"		"engine bug"
+		"Command"		"engine con_enable 1;toggleconsole"
 
 		"navUp"			"VRModeButton"
 		"navLeft"		"CoachPlayersButton"
@@ -3062,7 +3064,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"glyph_bug"
+			"image"			"glyph_vr"
 			"scaleImage"	"1"
 		}				
 	}			

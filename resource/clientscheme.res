@@ -1498,7 +1498,29 @@ Scheme
 				"weight"	"500"
 			}
 		}
+		//Taken from HUD Fixes clientscheme -Lambdagon 
+		"MenuMedium"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"15"
+				"antialias" "1"
+				"weight"	"500"
+			}
+		}
 		
+		"MenuSmall"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"15"
+				"antialias" "1"
+				"weight"	"500"
+			}
+		}
+		///////////////////
 		"GoalText"
 		{
 			"1"
