@@ -617,7 +617,7 @@
 	HudSpellMenu
 	{
 		"fieldName" "HudSpellMenu"
-		"visible" "1"
+		"visible" "0"
 		"enabled" "1"
 		"wide"	 "640"
 		"tall"	 "480"

@@ -2,11 +2,15 @@
 {		
 	HudSpellMenu
 	{
-		"xpos"			"130"
+		"xpos"			"190"
+		"xpos_minmode"			"160"
+		"ypos_minmode"			"r73"
 
 		"if_killstreak_visible"
 		{
-			"xpos"			"160"
+			"xpos"			"240"
+			"xpos_minmode"			"160"
+			"ypos_minmode"			"r73"
 		}
 	}
 			
@@ -15,11 +19,13 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
 		"xpos"			"0"
-		"ypos"			"10"
+		"ypos"			"-3"
 		"xpos_minmode"	"0"
-		"ypos_minmode"	"10"
-		"wide"			"80"
-		"tall"			"40"
+		"ypos_minmode"			"r73"
+		"wide"			"90"
+		"wide_minmode"	"90"
+		"tall"			"57"
+		"tall_minmode"	"45"
 		"visible"		"1"
 		"enabled"		"1"
 		"visible_minmode"	"0"
@@ -36,10 +42,14 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"Spellbook"
 		"xpos"			"10"
-		"ypos"			"0"
+		"xpos_minmode"			"10"
+		"ypos"			"-3"
+		"ypos_minmode"			"0"
 		"zpos"			"0"
-		"wide"			"64"
-		"tall"			"56"
+		"wide"			"69"
+		"wide_minmode"			"64"
+		"tall"			"61"
+		"tall_minmode"			"56"
 		"visible"		"1"
 		"visible_minmode"	"0"
 		"enabled"		"1"

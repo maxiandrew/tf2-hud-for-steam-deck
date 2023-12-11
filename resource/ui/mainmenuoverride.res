@@ -3064,7 +3064,7 @@
 			"tall"			"15"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"glyph_vr"
+			"image"			"glyph_console"
 			"scaleImage"	"1"
 		}				
 	}			
