@@ -5,17 +5,16 @@ r_decal_cullsize 1
 // Setup custom controller
 exec joystick.cfg
 
-// run a user script file if present
+// Run a user script file if present
 exec autoexec.cfg
+exec hud_customizations.cfg
+exec hud_crosshair.cfg
 
-//
-// stuff command line statements
-//
+// Stuff command line statements
 stuffcmds
 
-// display the startup level
+// Display the startup level
 startupmenu
-
 sv_unlockedchapters 99
 engine cl_hud_minmode 0
 cl_crosshair_scale 48

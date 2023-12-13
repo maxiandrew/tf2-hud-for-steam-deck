@@ -1,3 +1,6 @@
+#base "ui/#customizations/crosshair/crosshair_scheme.res"
+
+
 //
 // TRACKER SCHEME RESOURCE FILE
 //
