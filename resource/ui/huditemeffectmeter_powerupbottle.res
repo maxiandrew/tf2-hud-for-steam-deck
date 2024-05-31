@@ -5,9 +5,9 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r770"	[$WIN32]
+		"xpos"			"r220"	[$WIN32]
 		"xpos_minmode"	"r86"	[$WIN32]
-		"ypos"			"r220"	[$WIN32]
+		"ypos"			"r84"	[$WIN32]
 		"ypos_minmode"	"r102"	[$WIN32]
 		"wide"			"150"
 		"wide_minmode"	"100"
@@ -21,15 +21,15 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"-40"
+		"xpos"			"0"
 		"xpos_minmode"	"0"
-		"ypos"			"-5"
+		"ypos"			"0"
 		"ypos_minmode"	"0"
 		"zpos"			"0"
-		"wide"			"190"
+		"wide"			"110"
 		"wide_minmode"	"90"
-		"tall"			"110"
-		"tall_minmode"	"56"
+		"tall"			"80"
+		"tall_minmode"	"50"
 		"visible"		"1"
 		"visible_minmode"	"1"
 		"enabled"		"1"
@@ -45,9 +45,9 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectIcon"
-		"xpos"			"18"
+		"xpos"			"15"
 		"xpos_minmode"	"12"
-		"ypos"			"10"
+		"ypos"			"12"
 		"ypos_minmode"	"7"
 		"zpos"			"1"
 		"wide"			"40"
@@ -64,10 +64,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"18"
+		"xpos"					"8"
 		"xpos_minmode"			"12"
-		"ypos"					"48"
-		"ypos_minmode"			"32"
+		"ypos"					"52"
+		"ypos_minmode"			"33"
 		"zpos"					"2"
 		"wide"					"84"
 		"wide_minmode"			"56"
@@ -110,9 +110,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"36"
+		"xpos"					"34"
 		"xpos_minmode"			"24"
-		"ypos"					"16"
+		"ypos"					"18"
 		"ypos_minmode"			"11"
 		"zpos"					"2"
 		"wide"					"60"
