@@ -18,7 +18,7 @@ Once downloaded, go into the ZIP file and put its folder into your "custom" fold
 /home/deck/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom
 ```
 
-To show the ".local" folder, go into the options panel (<img height="22" width="22" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Hamburger_icon.svg">) and then enable *Show Hidden Files*.
+To show the ".local" folder, go into the options panel (<img height="12" width="12" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Hamburger_icon.svg">) and then enable *Show Hidden Files*.
 
 If you dont have a "custom" folder, make one.
 # Screenshots
