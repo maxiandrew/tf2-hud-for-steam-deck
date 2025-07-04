@@ -35,7 +35,7 @@ If you dont have a "custom" folder, make one.
 - [**Max Andrew**](https://github.com/maxiandrew)
 
 ## Special thanks to
-- [**Viss**](https://github.com/Lambdagon)
+- [**Vvis**](https://github.com/Lambdagon)
 # License
 
 ![Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
